@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["9vatv"]); }
-
-__d("SATPFontPickerEntryPoint",[],(function(a,b,c,d,e,f){e.exports=Object.freeze({ICON:"ICON",PLAINTEXT_BUTTON:"PLAINTEXT_BUTTON",SPROUT:"SPROUT"})}),null);
