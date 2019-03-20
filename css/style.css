@@ -13,7 +13,7 @@ header {
   width: 100%;
   background-color: #088A85;
   height: 240px;
-  background-image: url("../bilde/bilde1");
+  backgrou
 
 }
 
@@ -54,6 +54,11 @@ text-shadow: 2px 2px 2px black;
  }
  audio {
 margin-left: 115px;
+
+
+ }
+ video {
+   margin-right: 30px;
 
  }
 
